@@ -137,7 +137,7 @@ ax3.legend()
 
 plt.tight_layout()
 
-file_name = 'calcd_v_obsd.tif'
+file_name = 'PPD-modeled.tif'
 plt.savefig(file_name, format="tif")
         
 plt.show()
